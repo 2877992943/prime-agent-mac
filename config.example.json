@@ -1,0 +1,7 @@
+{
+  "ssh_remote": "user@gateway.example.com",
+  "remote_port": 5919,
+  "model": "your-vision-model",
+  "api_key": "your-api-key",
+  "ssh_timeout": 150
+}
