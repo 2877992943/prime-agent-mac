@@ -1,4 +1,4 @@
-# prime-agent-cua
+# prime-agent-mac
 
 [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) 的 **Computer Use Agent skill**：截屏 → 视觉观察 → 鼠标键盘注入的 GUI 自动化执行层。看屏幕-决策-操作的循环带轮数预算、动作账本、循环检测与危险动作拦截。
 
@@ -16,8 +16,8 @@
 ## 安装
 
 ```sh
-git clone https://github.com/<你的用户名>/prime-agent-cua.git
-cd prime-agent-cua
+git clone https://github.com/2877992943/prime-agent-mac.git
+cd prime-agent-mac
 ./install.sh
 ```
 
